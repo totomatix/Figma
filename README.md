@@ -49,6 +49,7 @@ Ci-dessous vous trouverez une documentation vous permettant de découvrir Figma.
     - [3.12.5. La propriété d'échange d'instance sur les composants](#3125-la-propriété-déchange-dinstance-sur-les-composants)
   - [3.13. Gestion du scrolling](#313-gestion-du-scrolling)
   - [3.14. Prototypage](#314-prototypage)
+    - [Créer une popup](#créer-une-popup)
   - [3.15. Partage d'un prototype avec un client](#315-partage-dun-prototype-avec-un-client)
 - [4. Tips and tricks](#4-tips-and-tricks)
 - [5. Liens utiles](#5-liens-utiles)
@@ -460,6 +461,10 @@ Pour prototyper sur Figma, suivez les étapes suivantes :
 8. Vous pouvez également partager votre prototype avec d'autres personnes en utilisant l'option "Partager" dans la barre d'outils en haut de la fenêtre Figma.
 
 En utilisant les outils de prototypage de Figma, vous pouvez créer des prototypes interactifs de vos designs, ajouter des animations et des transitions pour améliorer l'expérience utilisateur, et partager facilement vos prototypes avec d'autres personnes.
+
+#### Créer une popup
+
+<iframe src="https://scribehow.com/embed/Figma_Workflow__60nweKA1QYm_2tqlqXx40A" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 ### 3.15. Partage d'un prototype avec un client
 <!-- TODO remplir cette partie -->
