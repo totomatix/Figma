@@ -464,7 +464,8 @@ En utilisant les outils de prototypage de Figma, vous pouvez créer des prototyp
 
 #### Créer une popup
 
-<iframe src="https://scribehow.com/embed/Figma_Workflow__60nweKA1QYm_2tqlqXx40A" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+<!-- TOTO améliorer la phrase -->
+Il est possible de faire apparaître des Frames sur d'autres Frames en suivant la procédure expliquée [ici](https://scribehow.com/shared/Figma_Workflow__60nweKA1QYm_2tqlqXx40A).
 
 ### 3.15. Partage d'un prototype avec un client
 <!-- TODO remplir cette partie -->
